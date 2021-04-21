@@ -4,6 +4,9 @@ description: |
   Manoel Vieira - Contabilidade
 output_dir: "_docs"
 navbar:
+  logo:
+      image: img/logo_manu.png
+      href: index.html
   right:
     - text: "Home"
       href: index.html

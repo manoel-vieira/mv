@@ -2,7 +2,7 @@ name: "."
 title: "Manoel Vieira - Contabilidade"
 description: |
   Manoel Vieira - Contabilidade
-output_dir: "_docs"
+output_dir: "docs"
 navbar:
   logo:
       image: img/logo_manu.png

@@ -1,15 +1,61 @@
 ---
-title: "Manoel Vieira - Contabilidade"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: ""
+output:
+  distill::distill_article:
+    self_contained: false
+    anchor_sections: FALSE
 site: distill::distill_website
+listing: posts
+css: [styles.css]
+encoding: utf-8
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+knitr::opts_chunk$set(echo = F,
+                      message = F, 
+                      warning = F, 
+                      dev.args = list(bg = 'transparent'),
+                      cache.rebuild = F,
+                      fig.align = "center",
+                      cache = F)
 
 ```
+
+
+</br >
+
+</br >
+
+
+![](img/gif_entrada.gif)
+
+:::::: {.cols data-latex=""}
+
+::: {.column_3}
+
+  **Correção monetária de processos**  
+  
+  Realizo a revisão monetaria de processos...  
+  
+:::
+
+::: {.column_3}
+
+  **Atualização de valores**  
+  
+  Atualização dos valores e ....
+
+:::
+
+::: {.column_3}
+
+  **Perícia contábil**  
+  
+  Perícia de documentos...
+  
+  
+:::
+
+::::::
+
 

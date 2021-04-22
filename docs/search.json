@@ -10,12 +10,11 @@
     },
     {
       "path": "index.html",
-      "title": "Manoel Vieira - Contabilidade",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-21T11:50:30-03:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\nCorreção monetária de processos\r\nRealizo a revisão monetaria de processos…\r\n\r\n\r\nAtualização de valores\r\nAtualização dos valores e ….\r\n\r\n\r\nPerícia contábil\r\nPerícia de documentos…\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-21T21:05:15-03:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }

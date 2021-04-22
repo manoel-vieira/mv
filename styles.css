@@ -1,0 +1,21 @@
+/* configuracao das colunas no texto */ 
+/* 2 colunas */ 
+.column{
+  float: left;
+  width: 45%;
+  text-align: left;
+}
+
+/* 3 colunas */ 
+.column_3{
+  float: left;
+  width: 33.33%;
+  text-align: left;
+}
+
+/* coluna de espaco */ 
+.column_spc{
+  float: left;
+  width: 4%;
+  text-align: left;
+}
